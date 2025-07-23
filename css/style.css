@@ -10,7 +10,6 @@ body {
   font-style: Bold;
   font-size: 18px;
   line-height: 21px;
-  letter-spacing: 3%;
   vertical-align: middle;
   text-transform: uppercase;
 }
@@ -22,6 +21,46 @@ a.logo > .logo-effect {
 }
 .contact-item a {
   color: #434455;
+}
+.hero-image {
+  background-color: #2e2f42;
+}
+.main-page-headline {
+  color: #ffffff;
+  font-weight: 700;
+  font-style: Bold;
+  font-size: 56px;
+  text-align: center;
+}
+.main-page-button {
+  width: 169px;
+  height: 56px;
+  opacity: 1;
+  gap: 10px;
+  padding-top: 16px;
+  padding-right: 32px;
+  padding-bottom: 16px;
+  padding-left: 32px;
+  border-radius: 4px;
+  background-color: #4d5ae5;
+}
+.hero-advantages li {
+  color: #434455;
+  width: 264px;
+}
+.team-member-pic {
+  width: 264px;
+  height: 260px;
+  opacity: 1;
+}
+h2 {
+  font-weight: 700;
+  font-style: bold;
+  font-size: 36px;
+  text-align: center;
+}
+h3 {
+  color: #2e2f42;
 }
 .item-image {
   width: 360px;
