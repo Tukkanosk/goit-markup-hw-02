@@ -48,6 +48,9 @@ a.logo > .logo-effect {
   color: #434455;
   width: 264px;
 }
+.team-members-box {
+  background-color: #f4f4fd;
+}
 .team-member-pic {
   width: 264px;
   height: 260px;
@@ -62,10 +65,18 @@ h2 {
 h3 {
   color: #2e2f42;
 }
-.item-image {
+.item-pic {
   width: 360px;
   height: 300px;
   opacity: 1;
+}
+.item-name {
+  font-weight: 500;
+  font-size: 20px;
+}
+footer {
+  background-color: #2e2f42;
+  color: #f4f4fd;
 }
 ul {
   list-style-type: none;
