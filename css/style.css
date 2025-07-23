@@ -1,0 +1,39 @@
+body {
+  background-color: #ffffff;
+  font-family: "Roboto", sans-serif;
+  color: #2e2f42;
+  line-height: 1.5;
+}
+.logo {
+  font-family: Raleway;
+  font-weight: 700;
+  font-style: Bold;
+  font-size: 18px;
+  line-height: 21px;
+  letter-spacing: 3%;
+  vertical-align: middle;
+  text-transform: uppercase;
+}
+a.logo > .logo-effect {
+  color: #4d5ae5;
+}
+.nav-list {
+  font-weight: 500;
+}
+.contact-item a {
+  color: #434455;
+}
+.item-image {
+  width: 360px;
+  height: 300px;
+  opacity: 1;
+}
+ul {
+  list-style-type: none;
+}
+a {
+  text-decoration: none;
+}
+a:visited {
+  color: inherit;
+}
